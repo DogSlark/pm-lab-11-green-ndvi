@@ -24,4 +24,4 @@
 
 ## Доска проекта
 
-<ссылка появится в шаге 7>
+https://github.com/users/DogSlark/projects/1/views/1
