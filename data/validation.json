@@ -1,0 +1,11 @@
+{
+  "crs": "EPSG:4326",
+  "bbox": [48.7, 55.4, 49.7, 56.2],
+  "max_file_mb": 10,
+  "layers": {
+    "boundary": {"geometry": ["Polygon", "MultiPolygon"], "min_count": 1, "max_count": 1, "id": ["osm_id"], "required": ["osm_id", "name"]},
+    "districts": {"geometry": ["Polygon", "MultiPolygon"], "min_count": 7, "max_count": 7, "id": ["osm_id"], "required": ["osm_id", "name"]},
+    "district_metrics": {"geometry": ["Polygon", "MultiPolygon"], "min_count": 7, "max_count": 7, "id": ["osm_id"], "required": ["osm_id", "name", "mean_ndvi", "mean_lst_c", "valid_fraction"]},
+    "priority_zones": {"geometry": ["Polygon", "MultiPolygon"], "min_count": 10, "max_count": 10, "id": ["zone_id"], "required": ["zone_id", "area_ha"]}
+  }
+}

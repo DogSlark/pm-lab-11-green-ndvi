@@ -1,0 +1,82 @@
+[
+  {
+    "path": "data/raw/lwir11.tif",
+    "bytes": 3455473,
+    "sha256": "a9028a71c25f9e1544fefcc7e4d37cbc08dcc8540701cfe2df429f8340fe946d"
+  },
+  {
+    "path": "data/raw/nir08.tif",
+    "bytes": 3975132,
+    "sha256": "11f4d9827b2caf6489890e34536c543872b30d9e5bd72074b1efe21d863adb77"
+  },
+  {
+    "path": "data/raw/qa_pixel.tif",
+    "bytes": 29973,
+    "sha256": "4f40a1f9d0ec60ca93ef5eba663f945b9626ae568d463bb6800c22d8c8c401b6"
+  },
+  {
+    "path": "data/raw/qa_radsat.tif",
+    "bytes": 7128,
+    "sha256": "9b570351414f8d8c3cb455827e52e3bf8ee6de53c0d74e3cf235083d7cf89353"
+  },
+  {
+    "path": "data/raw/red.tif",
+    "bytes": 3546029,
+    "sha256": "6b224a3413eab511191d437a5ee921d02bd6a236a56b2cbbdbf42265f0a0d7be"
+  },
+  {
+    "path": "data/processed/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "data/processed/boundary.gpkg",
+    "bytes": 151552,
+    "sha256": "5c3ab16695d553197cb06f3a3c713080d026defb507ec2539503870bce4ed689"
+  },
+  {
+    "path": "data/processed/district_metrics.gpkg",
+    "bytes": 180224,
+    "sha256": "01401b93ba8c7a7a107875ddb7f2bec94c842e214526d85a5dccfa5d982cc5c6"
+  },
+  {
+    "path": "data/processed/district_statistics.csv",
+    "bytes": 933,
+    "sha256": "55680e5c94c42f5086f6fd3bccbb0724f8ff028cc976c162919ea2e933e21f96"
+  },
+  {
+    "path": "data/processed/districts.gpkg",
+    "bytes": 159744,
+    "sha256": "43df6e1d43480e99a4c85903305d8c2ba9b4dfeeedbbe9c0641e8c2ff9cf0e43"
+  },
+  {
+    "path": "data/processed/ndvi.tif",
+    "bytes": 2096987,
+    "sha256": "e58aa3ffa637cb871850b4694a59c396112d590750a87ad08def2f4295e6991b"
+  },
+  {
+    "path": "data/processed/plan.json",
+    "bytes": 13063,
+    "sha256": "12b21ac5a89945166911522623938b6c2b9f0a2cfcea6be3c1fcbb240f5188b5"
+  },
+  {
+    "path": "data/processed/priority_zones.geojson",
+    "bytes": 275801,
+    "sha256": "a4db4efb90f1be3f6dfcabe9255221983a4ea7105366be88eaa4dd942797e238"
+  },
+  {
+    "path": "data/processed/priority_zones.gpkg",
+    "bytes": 208896,
+    "sha256": "6b41e0e1b91d5187fc021f89934c7c49148c54195899300c673088d511222895"
+  },
+  {
+    "path": "data/processed/summary.json",
+    "bytes": 2496,
+    "sha256": "b0fce69df9170960fd8a6ef4446c9410884bd4a554d17bc33deec1ee12687f30"
+  },
+  {
+    "path": "data/processed/temperature.tif",
+    "bytes": 1426430,
+    "sha256": "cc635bc28108d417a8ccad662a4e299ff94352cca65b8a0b6c73b4c28dd7962a"
+  }
+]

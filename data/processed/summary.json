@@ -1,0 +1,82 @@
+{
+  "scene_id": "LC09_L2SP_171021_20250708_02_T1",
+  "threshold_lst_c": 34.66488128000003,
+  "city_pixels": 660274,
+  "valid_land_pixels": 594768,
+  "valid_fraction_of_city": 0.9007896721664036,
+  "priority_land_km2": 40.8996,
+  "zones": 10,
+  "correlation_ndvi_lst": -0.7683240622583791,
+  "districts": [
+    {
+      "osm_id": 2133461,
+      "name": "Авиастроительный район",
+      "total_pixels": 73624,
+      "valid_pixels": 73168,
+      "valid_fraction": 0.9938063674888623,
+      "mean_ndvi": 0.6517749095028209,
+      "mean_lst_c": 32.15524237178905,
+      "priority_km2": 4.9014
+    },
+    {
+      "osm_id": 2133462,
+      "name": "Вахитовский район",
+      "total_pixels": 30387,
+      "valid_pixels": 20240,
+      "valid_fraction": 0.6660743080922763,
+      "mean_ndvi": 0.42844666082935795,
+      "mean_lst_c": 35.679819087126496,
+      "priority_km2": 5.5287
+    },
+    {
+      "osm_id": 2133463,
+      "name": "Кировский район",
+      "total_pixels": 119772,
+      "valid_pixels": 99222,
+      "valid_fraction": 0.8284240056106602,
+      "mean_ndvi": 0.6807280731788782,
+      "mean_lst_c": 30.081180113996506,
+      "priority_km2": 3.888
+    },
+    {
+      "osm_id": 2133464,
+      "name": "Московский район",
+      "total_pixels": 42508,
+      "valid_pixels": 42303,
+      "valid_fraction": 0.9951773783758351,
+      "mean_ndvi": 0.6123295806363562,
+      "mean_lst_c": 32.092059017115126,
+      "priority_km2": 4.7493
+    },
+    {
+      "osm_id": 2133465,
+      "name": "Ново-Савиновский район",
+      "total_pixels": 22658,
+      "valid_pixels": 20002,
+      "valid_fraction": 0.882778709506576,
+      "mean_ndvi": 0.47942463872893787,
+      "mean_lst_c": 35.53636496368965,
+      "priority_km2": 4.1112
+    },
+    {
+      "osm_id": 2133466,
+      "name": "Приволжский район",
+      "total_pixels": 195357,
+      "valid_pixels": 164913,
+      "valid_fraction": 0.8441622260784103,
+      "mean_ndvi": 0.6810376567422495,
+      "mean_lst_c": 31.687002077979674,
+      "priority_km2": 8.5005
+    },
+    {
+      "osm_id": 2133467,
+      "name": "Советский район",
+      "total_pixels": 175340,
+      "valid_pixels": 174293,
+      "valid_fraction": 0.9940287441542147,
+      "mean_ndvi": 0.6630380036794091,
+      "mean_lst_c": 31.896919272702995,
+      "priority_km2": 9.2205
+    }
+  ]
+}
