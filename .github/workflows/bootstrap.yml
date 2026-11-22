@@ -22,7 +22,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LAB: ${{ inputs.lab }}
-        run: bash .github/scripts/bootstrap.sh
+        run: |
+          sed -i 's/\r$//' .github/scripts/bootstrap.sh
+          bash .github/scripts/bootstrap.sh
       - name: Создать эпики и истории Green-NDVI
         if: inputs.lab != '1'
         env:
